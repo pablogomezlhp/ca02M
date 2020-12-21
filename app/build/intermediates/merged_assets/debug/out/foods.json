@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Meal Deal 1 （3+1&spicy wings)",
+    "description": "3 in 1, 4 spicy chicken wings & a can of soft drink",
+    "currency": "€",
+    "rate": "7",
+    "quantity": 0
+  },
+  {
+    "title": "Meal Deal 2(spicybox)",
+    "description": "Spice box, salt chilli chips, chicken & a can of soft drink",
+    "currency": "€",
+    "rate": "6",
+    "quantity": 0
+  },
+  {
+    "title": "Meal Deal 3(3+1&S Roll)",
+    "description": "3 in 1, two spring rolls & a can of soft drink",
+    "currency": "€",
+    "rate": "16",
+    "quantity": 0
+  },
+  {
+    "title": "Meal Deal 5(chicken cy&chips)",
+    "description": "Chicken, cury & chips in one tray & a can of soft drink",
+    "currency": "€",
+    "rate": "2",
+    "quantity": 0
+  },
+  {
+    "title": "Meal Deal 6(3+1&6 nuggets))",
+    "description": "3 in 1, six chicken nuggets & a can of soft drink",
+    "currency": "€",
+    "rate": "2",
+    "quantity": 0
+  },
+  {
+    "title": "Meal Deal 6(3+1&6 nuggets))",
+    "description": "3 in 1, six chicken nuggets & a can of soft drink",
+    "currency": "€",
+    "rate": "2",
+    "quantity": 0
+  }
+]

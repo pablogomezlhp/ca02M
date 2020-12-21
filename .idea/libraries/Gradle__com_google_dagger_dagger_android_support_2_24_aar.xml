@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.dagger:dagger-android-support:2.24@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6377a931283df37624104d64249053a7/jetified-dagger-android-support-2.24/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6377a931283df37624104d64249053a7/jetified-dagger-android-support-2.24/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6377a931283df37624104d64249053a7/jetified-dagger-android-support-2.24/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a3b0a20d07de2d1b731e851ce242424/jetified-dagger-android-support-2.24/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a3b0a20d07de2d1b731e851ce242424/jetified-dagger-android-support-2.24/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a3b0a20d07de2d1b731e851ce242424/jetified-dagger-android-support-2.24/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9bdd99305a5e7e0d3ffb1fd534973fd4/jetified-dagger-android-support-2.24/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9bdd99305a5e7e0d3ffb1fd534973fd4/jetified-dagger-android-support-2.24/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9bdd99305a5e7e0d3ffb1fd534973fd4/jetified-dagger-android-support-2.24/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger-android-support/2.24/1b148417dd383fe34d5ad82998fbf040f3b7b5ff/dagger-android-support-2.24-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger-android-support/2.24/aa4dcd38a7d2841c3991b0547945c577d8f19e2a/dagger-android-support-2.24-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
